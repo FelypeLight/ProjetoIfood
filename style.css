@@ -1,0 +1,12 @@
+.banner {
+    background-image: url(Ilustras.svg);
+}
+
+.img_banner img {
+    float: left;
+}
+
+.navBarGrupo1 {
+    display: table-row-group;
+
+}
